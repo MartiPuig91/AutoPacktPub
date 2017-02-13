@@ -7,8 +7,9 @@
 #		(it will be saved into your account's library)
 
 #USAGE:
-#	1 - Change customizable parameters
-# 	2 - Execute the script
+#	1 - Install dependences from script install.sh
+#	2 - Change customizable parameters
+# 	3 - Execute the script
 
 
 # IMPORTANT: 
