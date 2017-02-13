@@ -1,7 +1,8 @@
 #!/bin/bash
 
-# 10th February 2017
+# 13th February 2017
 # created by: sergidb
+# modified by: MartiPuig91
 
 #DESCRIPTION: Claim the daily free ebook from www.packtpub.com 
 #		(it will be saved into your account's library)
