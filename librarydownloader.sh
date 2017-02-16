@@ -15,8 +15,8 @@
 # 		USE IT BY YOUR OWN RISK
 
 #CUSTOMIZABLE PARAMETERS
-USER="_mpuig1991@gmail.com"						#Your packtpub user
-PASS="19910210mpc"									#Your packtpub password
+USER="USER"						#Your packtpub user
+PASS="PASSWORD"									#Your packtpub password
 DESTINATIONFORMAT="epub"								#Book format [pdf, epub or mobi]
 
 #WARNING: Don't touch below parameters if you don't know what you are doing
